@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munish Prajapati</h1>
-<h3 align="center">I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.I have proficiency in using Bootstrap, PHP, WordPress, React.js.</h3>
+<h3 align="center">I am a full-stack wordpress developer. I love programming, designing animation.I have proficiency in using Bootstrap, PHP, WordPress, React.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munish1305&label=Profile%20views&color=0e75b6&style=flat" alt="munish1305" /> </p>
 
