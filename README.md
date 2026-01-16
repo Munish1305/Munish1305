@@ -1,5 +1,3 @@
-<img align="center" src="https://avatars.githubusercontent.com/u/141041134?v=4" alt="munish1305" style="width: 100px; height: 100px; border-radius: 50px; margin: auto;"/>
-
 **Hi 👋, I'm Munish Prajapati**
 
 # 💫 About Me:
